@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Julian-dr-dev
 - 👀 I’m interested in learning more skills and obtaining a SWE internship
-- 🌱 I’m currently learning datat structures as well as web development
+- 🌱 Primarily interested in backend developemnt with the eventual transition into the design and implementation of Machine Learning algorithms
 - 💞️ I’m looking to collaborate on projects that involve python and buildings APIs
 - 📫 How to reach me:
 - email: julianmartinez21466@gmail.com
