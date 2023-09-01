@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Julian-dr-dev
 - 👀 I’m interested in learning more skills and obtaining a SWE internship
 - 🌱 Primarily interested in backend developemnt with the eventual transition into the design and implementation of Machine Learning algorithms
-- 💞️ I’m looking to collaborate on projects that involve API develpemtn and Distrubeted Systems
+- 💞️ I’m looking to collaborate on projects that involve API development, Machine learning, and Distrubeted Systems.
 - 📫 How to reach me:
 - email: julianmartinez21466@gmail.com
 - Phone: 831-239-9199
